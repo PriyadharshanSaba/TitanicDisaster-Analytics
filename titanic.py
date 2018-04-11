@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/18qXhHIC3mQBpLVAu0XKt8z88KpHaVe3q
 """
 
-gen_csvurl="https://storage.googleapis.com/kaggle-competitions-data/kaggle/3136/gender_submission.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1521989096&Signature=g7g2NqKJpneJ6xw2TKwr77Z9yIz%2FkCjdDbjlY7B%2BiK6Gohlrn7RqFGgcV1rICLNZg6MPsM5564FYcB4yNy%2Fs0iVXNLrXiVuFsQHeQcKu8r9JAgNMM9YgnZBN7%2BP%2Bi%2BiJ95ov2OHemR05wbpAFedWFWc7BJeg51nBRAbLgrCR4jv64ncww8gUoFv%2B3e%2Fki8wIJlEmywHwITvXLmSxAXgRIoxZQ6OW8fwOfLfAPbUvg4OuToHWY%2FdR0Ie%2FHZPDKCbfScRs%2FPVLjZUpBcndl8wk2r7L%2F3fnZViechgU8UB2LluuXJ7LpVYOlfME3C%2BaF8Px6oODQaDn8luvQ8yKkvOo%2Bg%3D%3D"
+gen_csvurl="https://storage.googleapis.com/kaggle-competitions-data/kaggle/3136/gender_submission.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1523677959&Signature=VtFAksy3SeTlGZNMpHORBlrSOfXT2HwQSz9tanwLc84NiYndtjuO659dXVjRyjChk3dzKoI17LtRNs0%2BhyYwJgWmkf2hlaNlKK2b4duuDNG%2FUGdgLtAgfZIEgD5rgETb6acknMM8CDhlxRFG3i%2BrAQsSynrLjNQ0wb6b3eehEMRM46rP%2B3vusCjHVc5CE%2Fb%2BP5thn930c43hI4Xye%2FKN2x7abQcHzDGctBwKhwcrsJNEKDEeL2YI4kjwltjfrndvGEDRD3wV6po5E%2BhgTT5gc5ic%2BL29h%2FYxgn2LgxuLzKE%2FYqG3%2BA5vFrIuTeyLqHRWW5ms5MRDRkZTL4aFkhr79w%3D%3D"
 
-test_csvurl="https://storage.googleapis.com/kaggle-competitions-data/kaggle/3136/test.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1521989129&Signature=ZCtbFnY7RcpIZgMfeJSKiZnHeg7%2Fxd1vOlKhzTQANAvZBX%2BVXEWCBlxBAqZBM6pEX4LG1VXvFqGHl86UNei89KEDj%2B%2BQCpba36r7eeA6YyJgrZ7d2zMQC218lFGdNLI0VjyAnN9%2FimLumXC4gg6kVZ3AQuNamUq2ow3mNUPFl4qJzzAXfw%2FSnk7WY4zp5N1WqsN%2BLP2BVtp3DdrK7wSdYTN9Lkkt6VfKyG12Izha3seiwjQHcqVn%2B8brcNmszDh6Vljz1q7DSan4aG3xq96FP4C2bw3MSqiCTNW8t9tUiexqGz%2FRnFC6OmUFX%2FLv4gohX0ohzCKYikA7q4ETzqbBKw%3D%3D"
+test_csvurl="https://storage.googleapis.com/kaggle-competitions-data/kaggle/3136/test.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1523677991&Signature=swl16k61kPLso2ctm5NQ5sQd3TiQ7ajnA%2FW%2FE9WFnkILn21bmSQFOsnenrGaCLE1xsvxfmZn6XBpnAIhGEHaEGZ%2FKC%2BhjbLCeJov%2BXfmoTdZNr7NQmZrAQ%2Fgw6jM7w1PJTP53%2FMzWH5JW0cWD%2FPXKm1cp6dTgz5j8vxYeQAFO6grnMpNQYoKmze%2BTa4DfuiUeKxJ1OFY2haXCCSCWA97lBgbxqTFhMGmMATtMChbnmd%2FGJAierckrUJQPXIVi4gdMDEYtGexRi8dQ5HnYAOqp47NYv22hUFtwhAB%2BxcdP%2BPkR%2FlqJLhrKPcoA1HuGmwfO1UCDxJLdtV62EOgCYF5jg%3D%3D"
 
-train_csvurl="https://storage.googleapis.com/kaggle-competitions-data/kaggle/3136/train.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1521989140&Signature=AbxTK02E5%2BBCkVT5y1vCjAE1BQXkaJqrTVwkR4iCUWOEQQsaFAN1y94aG0ZPntpKpWmDpacZQcgG9gIz0%2Bki5FbsnvdjSAtMbosE4gEKUH%2BfAu2Jw65LricxCIW58KroXa65YMaKKZ5Qi2ZfYhmcoCAIA89tAvySrs1yUX2mi%2FKhqcV0D6p8F0jA3hOry4HP6YoCtTdwWXmQfzqSdjB%2FVoRihVV%2B2B3dO3YyXmR5HSUVsrBhaHMUvNYOVCCKKTkoIsOFmuHCyQxcfw0HM60LgEwAPLk2HdrtYlzkAOoVOl3hcgauh0lsgpAL4GvGT3YPQQKXDYsOtBB%2Bq3e7jhhlvw%3D%3D"
+train_csvurl="https://storage.googleapis.com/kaggle-competitions-data/kaggle/3136/train.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1523678051&Signature=RfV0uhwtmHpMwmRCL92ldfM3oo%2BJqElTH84h8ChQeuxrWj3sbIhMQI2AclHw00J9XeYcpD%2FuYIrfkgStHGn2dx1qEW7wE3MafO%2FF4Kiew8ey7o8h2mESqZY8dQ7Ghj%2F9uUpm5i3vQATiTORZNFPSUZ7MDP%2BLW3h2jPE4skGi%2Byfc%2B7PdG00S1Drf6KnVH83dr90QhAkRPatNLf6UHzZoZPIpUTFZ6kDnMGvmaSiCn0ejf090yPX%2Blg1Ox89fRIFE2NC4NXBZxn9nDwNlY42AG4yGEbJq8rFEfFCEQpNMHzWcSw7OxAVE1Lvh8aCv%2Fa4SBpBb09YByx71u0lNm4zswA%3D%3D"
 
 import pandas as pd
 import numpy as np
@@ -94,3 +94,131 @@ for dataset in combine:
 
 train_df.head()
 
+grid = sns.FacetGrid(train_df, row='Pclass', col='Sex', size=2.2, aspect=1.6)
+grid.map(plt.hist, 'Age', alpha=.5, bins=20)
+grid.add_legend()
+
+guess_ages = np.zeros((2,3))
+guess_ages
+
+for dataset in combine:
+    for i in range(0, 2):
+        for j in range(0, 3):
+            guess_df = dataset[(dataset['Sex'] == i) & (dataset['Pclass'] == j+1)]['Age'].dropna()
+            age_guess = guess_df.median()
+
+            # Convert random age float to nearest .5 age
+            guess_ages[i,j] = int( age_guess/0.5 + 0.5 ) * 0.5
+            
+    for i in range(0, 2):
+        for j in range(0, 3):
+            dataset.loc[ (dataset.Age.isnull()) & (dataset.Sex == i) & (dataset.Pclass == j+1),\
+                    'Age'] = guess_ages[i,j]
+
+    dataset['Age'] = dataset['Age'].astype(int)
+
+train_df.head()
+
+train_df['AgeBand'] = pd.cut(train_df['Age'], 5)
+train_df[['AgeBand', 'Survived']].groupby(['AgeBand'], as_index=False).mean().sort_values(by='AgeBand', ascending=True)
+
+"""#Age Band Classification"""
+
+for dataset in combine:    
+    dataset.loc[ dataset['Age'] <= 16, 'Age'] = 0
+    dataset.loc[(dataset['Age'] > 16) & (dataset['Age'] <= 32), 'Age'] = 1
+    dataset.loc[(dataset['Age'] > 32) & (dataset['Age'] <= 48), 'Age'] = 2
+    dataset.loc[(dataset['Age'] > 48) & (dataset['Age'] <= 64), 'Age'] = 3
+    dataset.loc[ dataset['Age'] > 64, 'Age']
+train_df.head()
+
+#Removing the AgeBand feature
+train_df = train_df.drop(['AgeBand'], axis=1)
+combine = [train_df, test_df]
+train_df.head()
+
+"""Family Trees"""
+
+for dataset in combine:
+  dataset['FamilySize']=dataset['SibSp']+dataset['Parch']+1
+  
+train_df[['FamilySize', 'Survived']].groupby(['FamilySize'], as_index=False).mean().sort_values(by='Survived', ascending=False)
+
+for dataset in combine:
+  dataset['IsAlone']=0
+  dataset.loc[dataset['FamilySize']==1,'IsAlone'] = 1
+ 
+train_df[['IsAlone', 'Survived']].groupby(['IsAlone'], as_index=False).mean()
+
+train_df = train_df.drop(['Parch', 'SibSp', 'FamilySize'], axis=1)
+test_df = test_df.drop(['Parch', 'SibSp', 'FamilySize'], axis=1)
+combine = [train_df, test_df]
+
+train_df.head()
+
+for dataset in combine:
+    dataset['Age*Class'] = dataset.Age * dataset.Pclass
+
+train_df.loc[:, ['Age*Class', 'Age', 'Pclass']].head(10)
+
+"""#Getting the frequent occuring value"""
+
+freq_port = train_df.Embarked.dropna().mode()[0]
+freq_port
+
+for dataset in combine:
+    dataset['Embarked'] = dataset['Embarked'].fillna(freq_port)
+
+train_df[['Embarked', 'Survived']].groupby(['Embarked'], as_index=False).mean().sort_values(by='Survived', ascending=False)
+
+"""#Converting categorical feature to numeric
+
+Converting the EmbarkedFill feature by creating a new numeric Port feature
+"""
+
+for dataset in combine:
+    dataset['Embarked'] = dataset['Embarked'].map( {'S': 0, 'C': 1, 'Q': 2} ).astype(int)
+
+train_df.head()
+
+#Fare 
+test_df['Fare'].fillna(test_df['Fare'].dropna().median(), inplace=True)
+test_df.head()
+
+"""#Fare band"""
+
+train_df['FareBand'] = pd.qcut(train_df['Fare'], 4)
+train_df[['FareBand', 'Survived']].groupby(['FareBand'], as_index=False).mean().sort_values(by='FareBand', ascending=True)
+
+for dataset in combine:
+    dataset.loc[ dataset['Fare'] <= 7.91, 'Fare'] = 0
+    dataset.loc[(dataset['Fare'] > 7.91) & (dataset['Fare'] <= 14.454), 'Fare'] = 1
+    dataset.loc[(dataset['Fare'] > 14.454) & (dataset['Fare'] <= 31), 'Fare']   = 2
+    dataset.loc[ dataset['Fare'] > 31, 'Fare'] = 3
+    dataset['Fare'] = dataset['Fare'].astype(int)
+
+train_df = train_df.drop(['FareBand'], axis=1)
+combine = [train_df, test_df]
+    
+train_df.head(10)
+
+"""#Model"""
+
+X_train = train_df.drop("Survived", axis=1)
+Y_train = train_df["Survived"]
+X_test  = test_df.drop("PassengerId", axis=1).copy()
+X_train.shape, Y_train.shape, X_test.shape
+
+"""#Logistic Regression"""
+
+logreg = LogisticRegression()
+logreg.fit(X_train, Y_train)
+Y_pred = logreg.predict(X_test)
+acc_log = round(logreg.score(X_train, Y_train) * 100, 2)
+acc_log
+
+coeff_df = pd.DataFrame(train_df.columns.delete(0))
+coeff_df.columns = ['Feature']
+coeff_df["Correlation"] = pd.Series(logreg.coef_[0])
+
+coeff_df.sort_values(by='Correlation', ascending=False)
